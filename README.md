@@ -16,3 +16,4 @@ whereas User gets following options:
 4.Cancel Booking
 
 
+Here we used "Floyd Warshall" algorithm to calaculate the shortest path between the source and destination of rider which also helps rider to know how must cost they have to pay as we have calculated the fare based on distance.
